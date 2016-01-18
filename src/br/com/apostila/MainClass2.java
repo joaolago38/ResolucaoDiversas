@@ -8,6 +8,7 @@ public class MainClass2 {
 		if (child instanceof Parent) {
 			System.out.println("true");
 		} else {
+			
 			System.out.println("false");
 		}
 
